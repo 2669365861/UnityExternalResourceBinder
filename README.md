@@ -1,0 +1,2 @@
+# UnityExternalResourceBinder
+Unity外部资源动态加载
